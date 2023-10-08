@@ -12,15 +12,15 @@
 		:Connect(callback: (...) -> ()) -> Connection
 
 	type DrawParams
-		.Normal: Vector3,						default = Vector3.new(0, 1, 0)]
+		.Normal: Vector3,				default = Vector3.new(0, 1, 0)]
 		.Transparency: number,				default = 0
-		.PaintType: string,						default = 'Default'
-		.Color: Color3,							default = Color3.new()
+		.PaintType: string,				default = 'Default'
+		.Color: Color3,					default = Color3.new()
 		.Size or .Width: number,			default = 0.2
-		.Layer,											default = 1
+		.Layer,						default = 1
 		
-		.Point or .Position: Vector3 		[required for Draw.Dot Action]
-		.Points: {Vector3}						[required for Draw.Line Action]
+		.Point or .Position: Vector3 			[required for Draw.Dot Action]
+		.Points: {Vector3}				[required for Draw.Line Action]
 
 	type StrokeSegment -- actually called pieces
 		.Type: string
