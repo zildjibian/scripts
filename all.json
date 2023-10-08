@@ -1,0 +1,12 @@
+{
+  "LogAPI": "https://github.com/zildjibian/scripts/raw/main/LogAPI.lua",
+  "SignalClass": "https://github.com/zildjibian/scripts/raw/main/SignalClass.lua",
+  "Util": "https://github.com/zildjibian/scripts/raw/main/Util.lua",
+  "typeof": "https://github.com/zildjibian/scripts/raw/main/typeof.lua",
+  "DrawSpace": {
+    "Main": "https://github.com/zildjibian/scripts/raw/main/Draw%20Space/DrawSpaceAPI.lua",
+    "Preview": "https://github.com/zildjibian/scripts/raw/main/Draw%20Space/DrawSpaceAPI.Preview.lua",
+    "LocalSave": "https://github.com/zildjibian/scripts/raw/main/Draw%20Space/DrawSpaceAPI.LocalSave.lua",
+    "Extras": "https://github.com/zildjibian/scripts/raw/main/Draw%20Space/DrawSpaceAPI.Extras.lua"
+  }
+}
