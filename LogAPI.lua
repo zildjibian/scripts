@@ -1,5 +1,7 @@
 --/stop
 
+-- usage: log(text, type?)
+
 local LogConsole = false
 
 local ls = game:GetService('LogService')
