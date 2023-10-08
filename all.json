@@ -3,6 +3,7 @@
   "SignalClass": "https://github.com/zildjibian/scripts/raw/main/SignalClass.lua",
   "Util": "https://github.com/zildjibian/scripts/raw/main/Util.lua",
   "typeof": "https://github.com/zildjibian/scripts/raw/main/typeof.lua",
+  "tableread": "https://github.com/zildjibian/scripts/raw/main/tableread.lua",
   "DrawSpace": {
     "Main": "https://github.com/zildjibian/scripts/raw/main/Draw%20Space/DrawSpaceAPI.lua",
     "Preview": "https://github.com/zildjibian/scripts/raw/main/Draw%20Space/DrawSpaceAPI.Preview.lua",
