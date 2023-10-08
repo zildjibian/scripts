@@ -124,7 +124,7 @@ if not DrawSpace then
 	loadstring(game:GetService('HttpService'):JSONDecode(game:HttpGet("https://github.com/zildjibian/scripts/raw/main/inits.json")).DrawSpaceAPI)()
 end
 
--- example script (draws a floating point in the middle of the room)
+-- example script (draws a floating dot in the middle of the room)
 
 local pos = Vector3.new(20.68, 40, 318.69)
 local normals = {
