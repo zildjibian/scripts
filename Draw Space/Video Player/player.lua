@@ -23,6 +23,11 @@ local scale = 1/8
 
 --
 
+if _G.playingvideo then
+	_G.playingvideo = nil
+	wait(1)
+end
+
 size *= scale
 
 local http = game:GetService("HttpService")
@@ -83,8 +88,10 @@ local start = tick()
 
 local step = game:GetService('RunService').RenderStepped
 
+_G.playingvideo = true
+
 print(' Playing', ('"%s"'):format(path))
-while true do
+while _G.playingvideo do
 	frameStart += step:Wait() * fps
 
 	local aFrame = math.round(frameStart)
