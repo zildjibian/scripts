@@ -1,5 +1,7 @@
 --/stop
 
+-- usage: local signal = Signal.new(name)
+
 local Signal = {}
 
 Signal.doDebug = false
