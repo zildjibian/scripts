@@ -83,7 +83,7 @@
 
 --
 
--- DrawSpace is a global table (can be used in any client script)
+-- DrawSpace is a global variable (can be used in any client script)
 
 	DrawSpace.shouldFire = true
 	DrawSpace.shouldPreview = true
