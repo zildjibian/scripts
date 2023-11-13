@@ -87,7 +87,7 @@
 
 	DrawSpace.shouldFire = true
 	DrawSpace.shouldPreview = true
-	Modules = {...} -- a table with all of the modules in game.ReplicatedStorage.PaintService.Modules
+	DrawSpace.Modules = {...} -- a table with all of the modules in game.ReplicatedStorage.PaintService.Modules
 
 	DrawSpace:CreateAction(actionType: string, ...) -> Action
 	DrawSpace:CreateActions() -> Actions
