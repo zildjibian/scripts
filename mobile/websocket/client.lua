@@ -1,6 +1,6 @@
 local wso = WebSocket.connect("ws://YOUR_IPV4:8765")
 
--- .OnMessage  : RBXScriptSignal
+-- .OnMessage  : RBXScriptSignal: (content: string)
 -- :Send       : (content: string) -> ()
 
 local function print(...)
