@@ -31,7 +31,7 @@ end
 --
 
 local customtypeof = typeof
-local typeof = _typeof
+local typeof = _typeof or typeof
 
 function fix1(s)
 	return (((((s
