@@ -1,2 +1,2 @@
 # scripts
-Scripts I made for Roblox (exploit)
+Scripts I made for Roblox
