@@ -269,6 +269,12 @@
     "Description": "most forgettable number in bfb",
     "Texture": "http://www.roblox.com/asset/?id=9963256562"
   },
+  "Starfruit": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[Starfruit]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16247054705"
+  },
   "Monarch": {
     "Difficulty": "Insane",
     "String": "*[[File:Insane.png|frameless|Insane]] [[Monarch]]",
@@ -424,6 +430,12 @@
     "String": "*[[File:Normal.png|frameless|Normal]] [[V]]",
     "Description": "ectored",
     "Texture": "http://www.roblox.com/asset/?id=15244905422"
+  },
+  "Mojito Glass": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[Mojito Glass]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16397007717"
   },
   "X": {
     "Difficulty": "Insane",
@@ -695,6 +707,12 @@
     "Description": "he will not know the trauma of being used",
     "Texture": "http://www.roblox.com/asset/?id=10538935153"
   },
+  "BFDIA 5b": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[BFDIA 5b]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247036289"
+  },
   "Roboty-y": {
     "Difficulty": "Insane",
     "String": "*[[File:Insane.png|frameless|Insane]] [[Roboty-y]]",
@@ -712,6 +730,12 @@
     "String": "*[[File:Extreme.png|frameless|Extreme]] [[Ribbon]]",
     "Description": "[Hidden in the Inverted Realm]",
     "Texture": "http://www.roblox.com/asset/?id=9930520275"
+  },
+  "Latte": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Latte]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247118741"
   },
   "Wizard Hat": {
     "Difficulty": "Terrifying",
@@ -827,6 +851,18 @@
     "Description": "oh well",
     "Texture": "http://www.roblox.com/asset/?id=14341486971"
   },
+  "scenerycloud": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[scenerycloud]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16346637624"
+  },
+  "Torso": {
+    "Difficulty": "Terrifying",
+    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Torso]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16396103166"
+  },
   "Thirteen": {
     "Difficulty": "Insane",
     "String": "*[[File:Insane.png|frameless|Insane]] [[Thirteen]]",
@@ -839,17 +875,41 @@
     "Description": "[Hidden in the Backrooms]",
     "Texture": "http://www.roblox.com/asset/?id=10538650951"
   },
+  "Theebs": {
+    "Difficulty": "Terrifying",
+    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Theebs]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16397094417"
+  },
+  "Soy": {
+    "Difficulty": "Terrifying",
+    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Soy]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16247094459"
+  },
   "Rose": {
     "Difficulty": "Hard",
     "String": "*[[File:Hard.png|frameless|Hard]] [[Rose]]",
     "Description": "try and get inside...",
     "Texture": "http://www.roblox.com/asset/?id=9362701112"
   },
+  "HaydounDO": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[HaydounDO]]",
+    "Description": "[Hidden in Sakura Serenity]",
+    "Texture": "http://www.roblox.com/asset/?id=16020323591"
+  },
   "Johnson": {
     "Difficulty": "Normal",
     "String": "*[[File:Normal.png|frameless|Normal]] [[Johnson]]",
     "Description": "[Hidden in the Barren Desert Realm]",
     "Texture": "http://www.roblox.com/asset/?id=15159802212"
+  },
+  "Poppy Seed Roll": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Poppy Seed Roll]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16247126713"
   },
   "Hexagon": {
     "Difficulty": "Normal",
@@ -863,11 +923,29 @@
     "Description": "i've got my own style!",
     "Texture": "http://www.roblox.com/asset/?id=10331769845"
   },
+  "Hamburger": {
+    "Difficulty": "Hard",
+    "String": "*[[File:Hard.png|frameless|Hard]] [[Hamburger]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16247030284"
+  },
+  "Drum Kid": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Drum Kid]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16247061577"
+  },
   "Space Book": {
     "Difficulty": "Normal",
     "String": "*[[File:Normal.png|frameless|Normal]] [[Space Book]]",
     "Description": "haha i have no idea what to put here",
     "Texture": "http://www.roblox.com/asset/?id=14331644792"
+  },
+  "Dragonman": {
+    "Difficulty": "Terrifying",
+    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Dragonman]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16396842883"
   },
   "Cat": {
     "Difficulty": "Hard",
@@ -876,8 +954,8 @@
     "Texture": "http://www.roblox.com/asset/?id=9841773133"
   },
   "Cremini": {
-    "Difficulty": "Extreme",
-    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Cremini]]",
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[Cremini]]",
     "Description": "[Hidden in Midnight Rooftops Realm]",
     "Texture": "http://www.roblox.com/asset/?id=15288411925"
   },
@@ -911,6 +989,12 @@
     "Description": "[Hidden in the Yoyleland Realm]",
     "Texture": "http://www.roblox.com/asset/?id=10685278926"
   },
+  "Clothy": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Clothy]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16247024878"
+  },
   "Dreidel": {
     "Difficulty": "Normal",
     "String": "*[[File:Normal.png|frameless|Normal]] [[Dreidel]]",
@@ -922,6 +1006,18 @@
     "String": "*[[File:Easy.png|frameless|Easy]] [[Naily]]",
     "Description": "dont touch that spike!",
     "Texture": "http://www.roblox.com/asset/?id=4519589261"
+  },
+  "China": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[China]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16396007211"
+  },
+  "Cat Witch": {
+    "Difficulty": "Remorseless",
+    "String": "*[[File:Remorseless.png|frameless|Remorseless]] [[Cat Witch]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16396649140"
   },
   "Remote": {
     "Difficulty": "Hard",
@@ -935,11 +1031,41 @@
     "Description": "look inside of a clump of cotton candy",
     "Texture": "http://www.roblox.com/asset/?id=15742856185"
   },
+  "Branchy": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[Branchy]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16395854631"
+  },
   "Black Hole": {
     "Difficulty": "Insane",
     "String": "*[[File:Insane.png|frameless|Insane]] [[Black Hole]]",
     "Description": "There are pieces of code scattered throughout Spawn and Snow areas, find all 5 pieces and then go to Factory area.",
     "Texture": "http://www.roblox.com/asset/?id=4519607916"
+  },
+  "Blueberry Cupcake": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Blueberry Cupcake]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16247080117"
+  },
+  "Austrian Shield": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[Austrian Shield]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "http://www.roblox.com/asset/?id=16397068618"
+  },
+  "Trombone": {
+    "Difficulty": "Easy",
+    "String": "*[[File:Easy.png|frameless|Easy]] [[Trombone]]",
+    "Description": "right above snare drum",
+    "Texture": "http://www.roblox.com/asset/?id=10767919469"
+  },
+  "Deadly": {
+    "Difficulty": "Terrifying",
+    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Deadly]]",
+    "Description": "[Hidden in classic paradise]",
+    "Texture": "rbxassetid://14636222085"
   },
   "Yellow Leopard": {
     "Difficulty": "Extreme",
@@ -959,11 +1085,29 @@
     "Description": "get a ladder to get on top of the warehouse",
     "Texture": "http://www.roblox.com/asset/?id=14943639975"
   },
+  "Butter Churner": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Butter Churner]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247102579"
+  },
   "Grape": {
     "Difficulty": "Event",
     "String": "*[[File:Event.png|frameless|Event]] [[Grape]]",
     "Description": "happy april fools! (only obtainable on april fools)",
     "Texture": "http://www.roblox.com/asset/?id=9255071130"
+  },
+  "Bird From Egypt": {
+    "Difficulty": "Remorseless",
+    "String": "*[[File:Remorseless.png|frameless|Remorseless]] [[Bird From Egypt]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16266589371"
+  },
+  "Up Arrow": {
+    "Difficulty": "Terrifying",
+    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Up Arrow]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247072527"
   },
   "Oyster": {
     "Difficulty": "Extreme",
@@ -982,6 +1126,12 @@
     "String": "*[[File:Insane.png|frameless|Insane]] [[Mattress]]",
     "Description": "[Hidden in the Yoylefactory]",
     "Texture": "http://www.roblox.com/asset/?id=15022950567"
+  },
+  "Sun Spray": {
+    "Difficulty": "Easy",
+    "String": "*[[File:Easy.png|frameless|Easy]] [[Sun Spray]]",
+    "Description": "in an area where you need it most (not tropical islands though)",
+    "Texture": "http://www.roblox.com/asset/?id=16069584287"
   },
   "Idoit": {
     "Difficulty": "Hard",
@@ -1006,6 +1156,24 @@
     "String": "*[[File:Easy.png|frameless|Easy]] [[Firey]]",
     "Description": "you seriously need a hint for this?",
     "Texture": "http://www.roblox.com/asset/?id=2118603436"
+  },
+  "GameGo": {
+    "Difficulty": "Hard",
+    "String": "*[[File:Hard.png|frameless|Hard]] [[GameGo]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247136958"
+  },
+  "A Tree": {
+    "Difficulty": "Normal",
+    "String": "*[[File:Normal.png|frameless|Normal]] [[A Tree]]",
+    "Description": "[Hidden in the Yoyleland Realm]",
+    "Texture": "http://www.roblox.com/asset/?id=10147758731"
+  },
+  "Birdhouse": {
+    "Difficulty": "Easy",
+    "String": "*[[File:Easy.png|frameless|Easy]] [[Birdhouse]]",
+    "Description": "nature is epic..............",
+    "Texture": "http://www.roblox.com/asset/?id=14344901326"
   },
   "Ringy": {
     "Difficulty": "Hard",
@@ -1373,11 +1541,11 @@
     "Description": "if there is a leafy jr. then what would evil leafy jr. look like?",
     "Texture": "http://www.roblox.com/asset/?id=14976468035"
   },
-  "Trombone": {
-    "Difficulty": "Easy",
-    "String": "*[[File:Easy.png|frameless|Easy]] [[Trombone]]",
-    "Description": "right above snare drum",
-    "Texture": "http://www.roblox.com/asset/?id=10767919469"
+  "AndrewRoblox3333": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[AndrewRoblox3333]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "rbxassetid://16044553479"
   },
   "Glowstick": {
     "Difficulty": "Terrifying",
@@ -1427,11 +1595,11 @@
     "Description": "[Hidden in Midnight Rooftops Realm]",
     "Texture": "http://www.roblox.com/asset/?id=15288429908"
   },
-  "Sun Spray": {
-    "Difficulty": "Easy",
-    "String": "*[[File:Easy.png|frameless|Easy]] [[Sun Spray]]",
-    "Description": "in an area where you need it most (not tropical islands though)",
-    "Texture": "http://www.roblox.com/asset/?id=16069584287"
+  "Sausage Roll": {
+    "Difficulty": "Terrifying",
+    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Sausage Roll]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16356466273"
   },
   "?": {
     "Difficulty": "Remorseless",
@@ -1601,11 +1769,11 @@
     "Description": "something seems off about gelatin's menu...",
     "Texture": "http://www.roblox.com/asset/?id=10540297508"
   },
-  "HaydounDO": {
-    "Difficulty": "Extreme",
-    "String": "*[[File:Extreme.png|frameless|Extreme]] [[HaydounDO]]",
-    "Description": "[Hidden in Sakura Serenity]",
-    "Texture": "http://www.roblox.com/asset/?id=16020323591"
+  "Redstrike8k": {
+    "Difficulty": "Hard",
+    "String": "*[[File:Hard.png|frameless|Hard]] [[Redstrike8k]]",
+    "Description": "[Hidden in Polluted Marshlands]",
+    "Texture": "rbxassetid://16041136004"
   },
   "Ice Cube": {
     "Difficulty": "Easy",
@@ -1985,11 +2153,11 @@
     "Description": "who doesnt play with them in the bath?",
     "Texture": "http://www.roblox.com/asset/?id=9186625856"
   },
-  "A Tree": {
-    "Difficulty": "Normal",
-    "String": "*[[File:Normal.png|frameless|Normal]] [[A Tree]]",
-    "Description": "[Hidden in the Yoyleland Realm]",
-    "Texture": "http://www.roblox.com/asset/?id=10147758731"
+  "Fruit Bowl": {
+    "Difficulty": "Hard",
+    "String": "*[[File:Hard.png|frameless|Hard]] [[Fruit Bowl]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247111982"
   },
   "ARG Television": {
     "Difficulty": "Horrifying",
@@ -2495,11 +2663,11 @@
     "Description": "the freesmart van noooo!!",
     "Texture": "http://www.roblox.com/asset/?id=9358592518"
   },
-  "Birdhouse": {
-    "Difficulty": "Easy",
-    "String": "*[[File:Easy.png|frameless|Easy]] [[Birdhouse]]",
-    "Description": "nature is epic..............",
-    "Texture": "http://www.roblox.com/asset/?id=14344901326"
+  "Elbow": {
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Elbow]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247045425"
   },
   "Block Party": {
     "Difficulty": "Normal",
@@ -3725,11 +3893,11 @@
     "Description": "i wish i lived in a timeline where this didnt exist",
     "Texture": "http://www.roblox.com/asset/?id=14341489080"
   },
-  "Deadly": {
-    "Difficulty": "Terrifying",
-    "String": "*[[File:Terrifying.png|frameless|Terrifying]] [[Deadly]]",
-    "Description": "[Hidden in classic paradise]",
-    "Texture": "rbxassetid://14636222085"
+  "Calamari Ring": {
+    "Difficulty": "Insane",
+    "String": "*[[File:Insane.png|frameless|Insane]] [[Calamari Ring]]",
+    "Description": "[Hidden in Classic Paradise]",
+    "Texture": "http://www.roblox.com/asset/?id=16247088516"
   },
   "cool ice cube": {
     "Difficulty": "Terrifying",
@@ -4278,8 +4446,8 @@
     "Texture": "http://www.roblox.com/asset/?id=14949984318"
   },
   "Giant Tree": {
-    "Difficulty": "Insane",
-    "String": "*[[File:Insane.png|frameless|Insane]] [[Giant Tree]]",
+    "Difficulty": "Extreme",
+    "String": "*[[File:Extreme.png|frameless|Extreme]] [[Giant Tree]]",
     "Description": "it's a giant tree",
     "Texture": "http://www.roblox.com/asset/?id=15684625341"
   },
