@@ -1,4 +1,4 @@
--- aut in autoexec
+-- put in autoexec
 
 getgenv().readfile = function(path)
 	path = path:gsub('\\', '/')
