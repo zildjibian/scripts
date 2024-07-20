@@ -1,6 +1,7 @@
--- this is used to change the game without having to publish it, which is really helpful
+-- server runs in Luau
+-- client runs in vLua
 
-local scp = workspace:WaitForChild(""):WaitForChild("Collectables"):WaitForChild("SCP-096")
+local scp = workspace:WaitForChild("Collectables"):WaitForChild("SCP-096")
 
 local function ch(v)
   if v:IsA("Decal") then
@@ -8,5 +9,5 @@ local function ch(v)
   end
 end
 
-for _,v in pairs(scp:GetChildren()) do ch(v) end
+for _,v in scp:GetChildren() do ch(v) end
 scp.ChildAdded:Connect(ch)
