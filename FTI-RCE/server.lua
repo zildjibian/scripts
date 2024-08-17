@@ -22,17 +22,16 @@ end
 changeCollectable("SCP-096", "rbxassetid://146134073", "boo\n\ndecal uploaded by @joelwari")
 changeCollectable("Meow Skulls", "rbxassetid://12243376450", "fortnite\n\ndecal uploaded by @Solar_Elimz2") -- i never knew the og was... uhhh...
 
-local specialJoinDatas = {
+local specialLaunchDatas = {
 	["AscendiaHills"] = function(plr)
-		
+		game:GetService("TeleportService"):Teleport(18979668460, plr)
 	end,
 }
 
 game:GetService('Players').PlayerAdded:Connect(function(plr)
 	local jd = plr:GetJoinData()
-	if jd then
-		for i,v in jd do
-			print(i, v)
-		end
+	if jd and jd.LaunchData then
+		local cb = specialLaunchDatas[jd.LaunchData]
+		if cb then cb(plr) end
 	end
 end)
