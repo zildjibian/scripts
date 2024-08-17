@@ -30,8 +30,9 @@ local specialJoinDatas = {
 
 game:GetService('Players').PlayerAdded:Connect(function(plr)
 	local jd = plr:GetJoinData()
-	print(jd)
-	for _,v in jd do
-		print(v)
+	if jd then
+		for i,v in jd do
+			print(i, v)
+		end
 	end
 end)
