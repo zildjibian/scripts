@@ -23,7 +23,7 @@ changeCollectable("SCP-096", "rbxassetid://146134073", "boo\n\ndecal uploaded by
 changeCollectable("Meow Skulls", "rbxassetid://12243376450", "fortnite\n\ndecal uploaded by @Solar_Elimz2") -- i never knew the og was... uhhh...
 
 local specialJoinDatas = {
-	["ascendia-hills"] = function(plr)
+	["AscendiaHills"] = function(plr)
 		
 	end,
 }
