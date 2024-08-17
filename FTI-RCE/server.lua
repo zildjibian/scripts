@@ -28,10 +28,13 @@ local specialLaunchDatas = {
 	end,
 }
 
-game:GetService('Players').PlayerAdded:Connect(function(plr)
+local function playerAdded(plr)
 	local jd = plr:GetJoinData()
 	if jd and jd.LaunchData then
 		local cb = specialLaunchDatas[jd.LaunchData]
 		if cb then cb(plr) end
 	end
-end)
+end
+
+game:GetService('Players').PlayerAdded:Connect(playerAdded)
+for _,v in game.Players:GetPlayers() do playerAdded(v) end
