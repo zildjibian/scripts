@@ -20,6 +20,7 @@ local function changeCollectable(name, target, desc, hint)
 end
 
 changeCollectable("SCP-096", "rbxassetid://146134073", "boo\n\ndecal uploaded by @joelwari")
+changeCollectable("Worker Bee", "rbxassetid://12658824534", "decal uploaded by @iliaking2316")
 changeCollectable("Meow Skulls", "rbxassetid://12243376450", "fortnite\n\ndecal uploaded by @Solar_Elimz2") -- i never knew the og was... uhhh...
 
 local specialLaunchDatas = {
