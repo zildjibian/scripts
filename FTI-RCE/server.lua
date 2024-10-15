@@ -39,3 +39,8 @@ end
 
 game:GetService('Players').PlayerAdded:Connect(playerAdded)
 for _,v in game.Players:GetPlayers() do playerAdded(v) end
+
+local s = workspace.Map.Others.ToAS.Tower.F2.S2
+s.Text = s.Text:gsub("5E CA 40 ", "")
+
+game:GetService("ReplicatedStorage")["Background Music"].BackgroundMusicZones.Spawn.Music:FindFirstChildOfClass("Sound").SoundId = "rbxassetid://79002587816792"
